@@ -1,11 +1,11 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="ConvertAdd:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/ConvertAdd_war_exploded</output-path>
+  <artifact type="exploded-war" name="RegistDateFormat:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/RegistDateFormat_war_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="ConvertAdd/web/Web" />
+      <element id="javaee-facet-resources" facet="RegistDateFormat/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="ConvertAdd" />
+          <element id="module-output" name="RegistDateFormat" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Struts 2-2.3.20.1" />

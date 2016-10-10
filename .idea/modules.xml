@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BookSell/BookSell.iml" filepath="$PROJECT_DIR$/BookSell/BookSell.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConvertAdd/ConvertAdd.iml" filepath="$PROJECT_DIR$/ConvertAdd/ConvertAdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateFormat/DateFormat.iml" filepath="$PROJECT_DIR$/DateFormat/DateFormat.iml" />
       <module fileurl="file://$PROJECT_DIR$/IDEAWorksplace.iml" filepath="$PROJECT_DIR$/IDEAWorksplace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegistDateFormat/RegistDateFormat.iml" filepath="$PROJECT_DIR$/RegistDateFormat/RegistDateFormat.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+        "http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+    <constant name="struts.i18n.encoding" value="UTF-8" />
+    <package name="/" extends="struts-default">
+        <action name="regist" class="com.jaelyn.action.registAction">
+            <result name="success">regist.jsp</result>
+            <result name="input">error.jsp</result>
+        </action>
+        <action name="addGoods" class="com.jaelyn.action.goodsAdd">
+            <result name="success">showGoods.jsp</result>
+            <result name="input">goodsAdd.jsp</result>
+        </action>
+    </package>
+</struts>
