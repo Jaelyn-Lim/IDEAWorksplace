@@ -1,6 +1,6 @@
 <%--
   Created by IntelliJ IDEA.
-  User: Jaelyn
+  com.jaelyn.bean.User: Jaelyn
   Date: 08/10/2016
   Time: 00:04
   To change this template use File | Settings | File Templates.

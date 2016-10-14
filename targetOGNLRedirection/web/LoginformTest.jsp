@@ -1,21 +1,19 @@
 <%--
   Created by IntelliJ IDEA.
   com.jaelyn.bean.User: Jaelyn
-  Date: 09/10/2016
-  Time: 19:14
+  Date: 11/10/2016
+  Time: 15:27
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="s" uri="/struts-tags" %>
 <html>
 <head>
-    <title>添加商品页面测试</title>
+    <title>Loginformtest</title>
 </head>
 <body>
-<s:form action="addGoods">
-    <s:textfield name="goods.name" label="名称"></s:textfield>
-    <s:textfield name="goods.num" label="数量"></s:textfield>
-    <s:textfield name="goods.price" label="价格"></s:textfield>
+<s:form action="user1">
+    <s:textfield name="user" label="输入用户名+,+密码识别"></s:textfield>
     <s:submit value="提交"></s:submit>
 </s:form>
 </body>
